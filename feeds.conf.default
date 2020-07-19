@@ -5,6 +5,6 @@ src-git telephony https://git.openwrt.org/feed/telephony.git^5523d28
 src-git freifunk https://github.com/freifunk/openwrt-packages.git^05760f0
 src-git package https://github.com/kenzok8/openwrt-packages
 src-git package https://github.com/kenzok8/small
-src-git lean https://github.com/project-openwrt/luci-app-koolproxyR
-src-git lean https://github.com/jerrykuku/lua-maxminddb.git
-src-git lean https://github.com/jerrykuku/luci-app-vssr.git
+src-git package https://github.com/project-openwrt/luci-app-koolproxyR
+src-git package https://github.com/jerrykuku/lua-maxminddb.git
+src-git package https://github.com/jerrykuku/luci-app-vssr.git
